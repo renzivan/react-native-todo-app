@@ -21,3 +21,13 @@
     ```
     $ npm run start
     ```
+
+# What I Learned
+
+1. Setting up environment and android emulator via Android Studio
+
+2. Creating and importing components
+
+3. Styling and positioning
+
+`Learning react-native was quite easy as I'm well-rounded in JavaScript, the tricky part was actually setting up the environment and emulator.`
