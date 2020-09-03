@@ -1,7 +1,15 @@
 # SETUP
 
-1. Install packages:
+1. Clone repository and Install packages:
     
+    ```
+    $ git clone https://github.com/renzivan/react-native-todo-app.git <folder_name>
+    ```
+
+    ```
+    $ cd <folder_name>
+    ```
+
     ```
     $ npm install
     ```
@@ -11,5 +19,5 @@
 3. Run the app:
 
     ```
-    $ npm run android
+    $ npm run start
     ```
