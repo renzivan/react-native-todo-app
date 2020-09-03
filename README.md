@@ -28,6 +28,6 @@
 
 2. Creating and importing components
 
-3. Styling and positioning
+3. Styling and positioning components
 
 `Learning react-native was quite easy as I'm well-rounded in JavaScript, the tricky part was actually setting up the environment and emulator.`
