@@ -25,7 +25,7 @@ $ expo init <project_name>
 3. Run the app:
 
     ```
-    $ npm run start
+    $ npm start
     ```
 
 # What I Learned
