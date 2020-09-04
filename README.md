@@ -1,3 +1,9 @@
+# CREATING NEW PROJECT USING EXPO
+
+```
+$ expo init <project_name>
+```
+
 # SETUP
 
 1. Clone repository and Install packages:
