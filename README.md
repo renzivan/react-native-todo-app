@@ -36,4 +36,4 @@ $ expo init <project_name>
 
 3. Styling and positioning components
 
-`Learning react-native was quite easy as I'm well-rounded in JavaScript, the tricky part was actually setting up the environment and emulator.`
+`Learning the basics of react-native was quite easy as I'm well-rounded in JavaScript, the tricky part was actually setting up the environment and emulator.`
